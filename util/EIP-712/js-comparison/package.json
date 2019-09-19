@@ -1,0 +1,15 @@
+{
+  "name": "js-comparison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "eth-sig-util": "^2.4.4",
+    "ethers": "^4.0.37"
+  },
+  "author": "",
+  "license": "ISC"
+}
